@@ -8,7 +8,6 @@
         	"toolsToInstall": "uv,ruff,mypy"
     	},
 		"./features/opencode": {},
-		"./features/spec-kit": {},
 		"./features/gemini": {},
 		"./features/locale-nz": {},
 		"./features/github-cli": {}
