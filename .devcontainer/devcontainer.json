@@ -7,6 +7,7 @@
         	"installTools": "true",
         	"toolsToInstall": "uv,ruff,mypy"
     	},
+		"ghcr.io/powershell/powershell:latest": {},
 		"./features/opencode": {},
 		"./features/gemini": {},
 		"./features/locale-nz": {},
